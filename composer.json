@@ -1,26 +1,30 @@
 {
-    "name": "cuonggt/laravel-dibi",
+    "name": "nunocodex/laravel-dibi",
     "description": "An elegant GUI database management tool for your Laravel applications.",
     "keywords": [
         "laravel",
         "dibi"
     ],
-    "homepage": "https://github.com/cuonggt/laravel-dibi",
+    "homepage": "https://github.com/nunocodex/laravel-dibi",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/cuonggt/laravel-dibi/issues",
-        "source": "https://github.com/cuonggt/laravel-dibi"
+        "issues": "https://github.com/nunocodex/laravel-dibi/issues",
+        "source": "https://github.com/nunocodex/laravel-dibi"
     },
     "authors": [
         {
             "name": "Cuong Giang",
             "email": "thaicuong.giang@gmail.com"
+        },
+        {
+            "name": "NunoCodex",
+            "email": "nunocodex@gmail.com"
         }
     ],
     "require": {
-        "php": "^7.3|^8.0.2",
+        "php": "^7.3|^8.0.2|^8.2.0",
         "ext-json": "*",
-        "laravel/framework": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0",
+        "laravel/framework": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0|^12.0",
         "ramsey/uuid": "^3.8|^4.0"
     },
     "require-dev": {
